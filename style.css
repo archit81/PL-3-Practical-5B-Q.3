@@ -1,0 +1,41 @@
+body{
+    background-color: azure;
+}
+.main-header{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+.quote {
+    font-size: 30px;
+    margin: 0;    
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.315), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.quote figcaption,
+.quote blockquote {
+    margin: 1em;
+}
+.quote-1{
+    background: linear-gradient(to right, #00d2ff, #3a7bd5);
+
+}
+.quote-2{
+    background: linear-gradient(to right, #34e89e, #0f3443); 
+}
+.quote-3{
+    background: linear-gradient(to right, #6190e8, #a7bfe8); 
+}
+.quote-4{
+    background: linear-gradient(to right, #dad299, #b0dab9);
+}
+.quote-5{
+    background: linear-gradient(to right, #43c6ac, #191654);
+}
+
+
+footer p{
+    background-color: darkgray;
+    padding: 30px 20px;
+}
